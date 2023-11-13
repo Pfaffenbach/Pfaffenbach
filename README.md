@@ -6,7 +6,7 @@
 
 - My name is Erich Silveira Pfaffenbach
 - I'm studying Software Engineering at [Inatel](https://inatel.br/home/)
-- Currently working as Product Owner at NetLex
+- Currently working as Integration Developer at NetLex
 
 <div align="center">
     <a href="https://www.linkedin.com/in/erich-pfaffenbach-73a10321a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
